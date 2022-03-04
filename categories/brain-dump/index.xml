@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brain Dump on HOME.BAT</title>
+    <link>https://cameronheard.com/categories/brain-dump/</link>
+    <description>Recent content in Brain Dump on HOME.BAT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Feb 2022 08:12:33 -0600</lastBuildDate><atom:link href="https://cameronheard.com/categories/brain-dump/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughtstream</title>
+      <link>https://cameronheard.com/post/thoughtstream/</link>
+      <pubDate>Sat, 26 Feb 2022 08:12:33 -0600</pubDate>
+      
+      <guid>https://cameronheard.com/post/thoughtstream/</guid>
+      <description>This is where I dump my thoughts instead of using Twitter or Facebook.  2022-02-26 09:39:09
+Sausage links are just morning flavored hot dogs.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
